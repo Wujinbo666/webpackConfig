@@ -1,0 +1,7 @@
+{
+  // comment
+  title: 'JSON5 Example',
+  owner: {
+    name: 'Tom preston-Werner'
+  }
+}
